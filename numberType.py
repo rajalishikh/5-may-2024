@@ -7,7 +7,7 @@ print(age)
 bushraAge=22e3
 print(type(bushraAge))
 # complex datatype 
-myComplexwife=333.555j
-print(myComplexwife)
+
+
 
 

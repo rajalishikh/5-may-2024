@@ -1,0 +1,2 @@
+bushra='raj'
+print(bushra)
