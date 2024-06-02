@@ -1,8 +1,4 @@
-# A=12
-# B=5
-# divison=A//B
-# print(divison)
-# second Example 
-A,B=12,5
-integerfloting=A//B
-print(integerfloting)
+number1=5
+number2=2
+sum=number1**number2
+print(sum)
