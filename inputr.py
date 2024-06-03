@@ -1,0 +1,5 @@
+name=input('  please tell me your name: ')
+age=int(input('  please tell me  your age: '))
+wifename=input('please tell me your wife name ')
+wifeage=float(input(' please tell me your wife age: '))
+print(' your name is',name ,' your  age is',age," your  wife age is ",wifeage,"your wife name is ",wifename)
