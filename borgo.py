@@ -10,3 +10,4 @@ elif( a== c and b== d):
     print('Its a rectangle ')
 else:
     print('This is nothing ')
+    
