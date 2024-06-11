@@ -1,2 +1,0 @@
-bushra='raj'
-print(bushra)
