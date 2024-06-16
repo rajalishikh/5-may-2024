@@ -8,4 +8,4 @@ elif(marks>=60):
 elif(marks>=50):
     print('Your result is B')
 else:
-    print('You are fail ')
+    print('You are fail')
