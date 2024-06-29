@@ -1,2 +1,3 @@
-collage='Apna Collage '
-print(collage[5:len(collage)])
+bushra="so much angry some time so much baby her heart is so beautiful"
+
+print(bushra[-2:-5])
